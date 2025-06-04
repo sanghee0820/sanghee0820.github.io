@@ -31,18 +31,17 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: sanghee0820
+  email: sanghee0820.dev@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/sanghee0820 # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/sanghee0820
 
 # Site Verification Settings
 webmaster_verifications:
-  google: # fill in your Google verification code
+  google: google6d1e4e80f74f1263
   bing: # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
@@ -55,7 +54,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: # fill in your Google Analytics ID
+    id: 3XJ284XJ18
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
